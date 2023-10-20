@@ -1,6 +1,6 @@
 # Yugioh - Game
 
-Jogo do Yu-Gi-Oh feito com HTML/CSS e JS com a API VS-Code.
+Jogo do Yu-Gi-Oh feito com HTML/CSS e JS com VS-Code.
 
 |Personagens/Cartas|
 
